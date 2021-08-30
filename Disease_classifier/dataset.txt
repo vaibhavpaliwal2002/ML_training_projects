@@ -1,0 +1,3 @@
+﻿Dataset for project:-
+
+https://www.kaggle.com/darshan1504/covid19-detection-xray-dataset
